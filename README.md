@@ -11,3 +11,5 @@ I like taking a problem from requirements through to something that actually run
 ## Pinned
 
 - [`lidar-navigation-perception`](https://github.com/M-Almadanii/lidar-navigation-perception) — YOLOv8 perception prototypes for an AI-driven navigation aid, built on a Luxonis OAK-D Pro
+- [`internship-placement-spmp`](https://github.com/M-Almadanii/internship-placement-spmp) — Software Project Management Plan case study: risk register, quality process, training materials
+- [`internflow-usability-study`](https://github.com/M-Almadanii/internflow-usability-study) — UX research and journey mapping case study (Google Ventures Design Sprint)
